@@ -1,0 +1,8 @@
+{
+    "name": "jtakumi/php-school",
+    "description": "programing school php lesson",
+    "type": "project",
+    "require": {
+        "php": ">=8.3"
+    }
+}
